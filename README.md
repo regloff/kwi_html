@@ -1,16 +1,10 @@
 # Arbeitsauftrag
-## Setup für Laptop
-1. Falls an einem Laptop gearbeitet wird: Visual Studio Code [installieren](https://code.visualstudio.com/download)
-2. Neues File erstellen und abspeichern
-3. File mit Doppelklick öffnen
-
-## Setup für Tablet
-2. Falls an einem Tablet gearbeitet wird: https://onlinehtmlviewer.com öffnen
+Zum Ansehen und Bearbeiten der Webseite https://onlinehtmlviewer.com öffnen.
 
 ## Initiales HTML für Webseite:
 ```
 <!doctype html>
-<html>
+<html lang="de">
 <head>
   <meta charset="utf-8">
   <title>Orte in der Schweiz</title>
@@ -25,6 +19,7 @@
 
   <section>
     <h2>Bern</h2>
+    <!-- https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/CH_Bern_Kramgasse.jpg/500px-CH_Bern_Kramgasse.jpg?utm_source=de.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail -->
     <p>Bern ist bekannt für seine historische Altstadt. Ebenfalls sehenswert:</p>
     <ul>
       <li>Zytglogge</li>
@@ -50,5 +45,11 @@
 ```
 
 ## Aufgaben zu HTML (1. Lektion)
+1. Ins Template hat sich ein Fehler eingeschlichen: Die Abschnitte "Luzern" und "Lugano" sollten getrennt voneinander angezeigt werden. Behebe den Fehler.
+2. Füge im Abschnitt "Bern" ein Bild der Stadt Bern ein. Der Pfad zu einem möglichen Bild ist bereits als Kommentar im Code hinterlegt. (Dokumentation: https://developer.mozilla.org/de/docs/Web/HTML/Reference/Elements/img)
+3. Füge einen zusätzlichen Abschnitt (\<section>) für Zürich ein. Der Abschnitt soll einen Titel, einen Absatz und einen Link beinhalten.
+4. Die Aufzählung im Abschnitt "Bern" ist derzeit nicht nummeriert. Passe das HTML so an, dass eine nummerierte Liste angezeigt wird.
+5. Passe das HTML so an, dass der Text "Die Schweiz ist vielfältig" fett gedruckt wird.
+6. (Optional) Anstelle eines Bildes füge ein Video über einen Ort ein.
 
 ## Aufgaben zu CSS (2. Lektion)
