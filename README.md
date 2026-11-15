@@ -53,3 +53,9 @@ Zum Ansehen und Bearbeiten der Webseite https://onlinehtmlviewer.com öffnen.
 6. (Optional) Anstelle eines Bildes füge ein Video über einen Ort ein.
 
 ## Aufgaben zu CSS (2. Lektion)
+1. Ändere die Farbe des Titels "Unterwegs in der Schweiz".
+2. Ändere die Schriftart der ganzen Webseite zu "Georgia".
+3. Verwende einen ID-Selektor, um die Hintergrundfarbe des Abschnitts «Bern» anzupassen.
+4. Runde die Ecken aller Abschnitte ab.
+5. Vergrössere den Abstand zwischen den Abschnitten. Was ist der Unterschied zwischen `padding` und `margin`?
+6. Nun haben wir die Grundlagen beieinander. Verschönere die Webseite nach deinem eigenen Geschmack.
