@@ -1,4 +1,4 @@
-# Arbeitsauftrag
+# Arbeitsauftrag HTML & CSS
 Zum Ansehen und Bearbeiten der Webseite https://onlinehtmlviewer.com öffnen.
 
 ## Initiales HTML für Webseite:
@@ -45,17 +45,17 @@ Zum Ansehen und Bearbeiten der Webseite https://onlinehtmlviewer.com öffnen.
 ```
 
 ## Aufgaben zu HTML (1. Lektion)
-1. Ins Template hat sich ein Fehler eingeschlichen: Die Abschnitte "Luzern" und "Lugano" sollten getrennt voneinander angezeigt werden. Behebe den Fehler.
-2. Füge im Abschnitt "Bern" ein Bild der Stadt Bern ein. Der Pfad zu einem möglichen Bild ist bereits als Kommentar im Code hinterlegt. (Dokumentation: https://developer.mozilla.org/de/docs/Web/HTML/Reference/Elements/img)
+1. In das Template hat sich ein Fehler eingeschlichen: Die Abschnitte "Luzern" und "Lugano" sollten getrennt voneinander angezeigt werden. Behebe den Fehler.
+2. Füge im Abschnitt "Bern" ein Bild der Stadt Bern ein. Der Pfad zu einem möglichen Bild ist bereits als Kommentar im Template hinterlegt. (Hilfreiche Dokumentation: https://developer.mozilla.org/de/docs/Web/HTML/Reference/Elements/img)
 3. Füge einen zusätzlichen Abschnitt (\<section>) für Zürich ein. Der Abschnitt soll einen Titel, einen Absatz und einen Link beinhalten.
 4. Die Aufzählung im Abschnitt "Bern" ist derzeit nicht nummeriert. Passe das HTML so an, dass eine nummerierte Liste angezeigt wird.
 5. Passe das HTML so an, dass der Text "Die Schweiz ist vielfältig" fett gedruckt wird.
-6. (Optional) Anstelle eines Bildes füge ein Video über einen Ort ein. (Mögliche Videodatei: https://raw.githubusercontent.com/regloff/kwi_html/main/assets/switzerland.mp4)
+6. (Optional) Füge in einem Abschnitt ein Video anstelle eines Bildes ein. (Mögliche Videodatei: https://raw.githubusercontent.com/regloff/kwi_html/main/assets/switzerland.mp4)
 
 ## Aufgaben zu CSS (2. Lektion)
 1. Ändere die Farbe des Titels "Unterwegs in der Schweiz".
 2. Ändere die Schriftart der ganzen Webseite zu "Georgia".
-3. Verwende einen ID-Selektor, um die Hintergrundfarbe des Abschnitts «Bern» anzupassen.
+3. Verwende einen ID-Selektor, um die Hintergrundfarbe des Abschnitts "Bern" anzupassen.
 4. Runde die Ecken aller Abschnitte ab.
 5. Vergrössere den Abstand zwischen den Abschnitten. Was ist der Unterschied zwischen `padding` und `margin`?
 6. Nun haben wir die Grundlagen beieinander. Verschönere die Webseite nach deinem eigenen Geschmack.
