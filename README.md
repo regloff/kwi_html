@@ -50,7 +50,7 @@ Zum Ansehen und Bearbeiten der Webseite https://onlinehtmlviewer.com öffnen.
 3. Füge einen zusätzlichen Abschnitt (\<section>) für Zürich ein. Der Abschnitt soll einen Titel, einen Absatz und einen Link beinhalten.
 4. Die Aufzählung im Abschnitt "Bern" ist derzeit nicht nummeriert. Passe das HTML so an, dass eine nummerierte Liste angezeigt wird.
 5. Passe das HTML so an, dass der Text "Die Schweiz ist vielfältig" fett gedruckt wird.
-6. (Optional) Anstelle eines Bildes füge ein Video über einen Ort ein.
+6. (Optional) Anstelle eines Bildes füge ein Video über einen Ort ein. (Mögliche Videodatei: https://raw.githubusercontent.com/regloff/kwi_html/main/assets/switzerland.mp4)
 
 ## Aufgaben zu CSS (2. Lektion)
 1. Ändere die Farbe des Titels "Unterwegs in der Schweiz".
